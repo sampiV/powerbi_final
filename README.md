@@ -113,16 +113,6 @@ Python Libraries:
 
 ```
 
-\[Raw CSVs]
-↓
-\[Power Query Cleaning]
-↓
-\[Power BI Data Model with Python]
-↓
-\[Interactive Visual Layer: Dashboards & Slicers]
-
-```
-
 
 
 
