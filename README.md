@@ -123,37 +123,6 @@ Python Libraries:
 
 ```
 
----
 
-##  Folder Contents
-
-```
-
-/data                # Raw and cleaned CSVs
-/scripts             # Python code used for modeling
-/report.pbix         # Power BI file
-README.md            # This document
-
-```
-
----
-
-##  Future Extensions
-
-- Add coaching/arena dimensions
-- Integrate real-time data via API
-- Expand clustering to include defensive stats or playoff outcomes
-
----
-
-##  Author
-
-**Sampreeth Venkatasubramanian**  
-Senior Capstone — CISC 480  
-University of St. Thomas, 2025
-
----
-
-```
 
 
