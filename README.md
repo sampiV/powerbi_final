@@ -109,8 +109,6 @@ Python Libraries:
 
 ---
 
-##  Architecture Diagram
-
 ```
 
 
